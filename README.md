@@ -2,6 +2,8 @@
 
 ##### API Gateway para implementação de microsserviços Spring para contemplação de casa popular
 
+![image](https://user-images.githubusercontent.com/33875914/83288887-82488080-a1ba-11ea-8966-50e3e8348053.png)
+
 Este repositório é uma criação de API Gateway para acessar endpoints de arquiteturas RESTful 
 para validação e avaliação de famílias que estão esperando por uma casa popular.
 
