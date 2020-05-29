@@ -1,0 +1,21 @@
+{
+  "name": "api-gateway-digix",
+  "version": "1.0.0",
+  "description": "API Gateway para mapeamento e envio de informações para o sistema de contemplação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeferson Job",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-http-proxy": "^1.6.0",
+    "helmet": "^3.22.0",
+    "http": "0.0.1-security",
+    "morgan": "^1.10.0",
+    "swagger-jsdoc": "^4.0.0",
+    "swagger-ui-express": "^4.1.4"
+  }
+}
