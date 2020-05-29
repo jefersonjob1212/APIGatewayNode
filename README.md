@@ -14,3 +14,12 @@ para validação e avaliação de famílias que estão esperando por uma casa po
 - [HelmetJS](https://helmetjs.github.io/)
 - [http](https://github.com/npm/security-holder)
 - [morgan](https://github.com/expressjs/morgan)
+
+### Executando o projeto localmente
+```
+npm install
+node index
+```
+
+### Acessando implementação pública
+[API Publicada na Google Cloud Platform](http://34.68.34.35/api-docs/)
