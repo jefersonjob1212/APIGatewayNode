@@ -1,11 +1,11 @@
 # APIGatewayNode
 
-##API Gateway para implementação de microsserviços Spring para contemplação de casa popular
+## API Gateway para implementação de microsserviços Spring para contemplação de casa popular
 
 Este repositório é uma criação de API Gateway para acessar endpoints de arquiteturas RESTful 
 para validação e avaliação de famílias que estão esperando por uma casa popular.
 
-###Dependências utilizadas:
+### Dependências utilizadas:
 
 - [NodeJS](https://nodejs.org/)
 - [ExpressJS](https://expressjs.com/)
